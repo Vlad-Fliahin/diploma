@@ -1,0 +1,118 @@
+## Company Overview  
+**Agro Team Inc.** is an industry-leading firm specializing in agricultural products, agronomic advisory services, and sustainable agricultural technology implementation. Established in 1998, Agro Team Inc. operates regionally, maintaining a prominent market presence in agriculture supply and support solutions.
+
+- **Headquarters:**  
+4234 Greenfield Parkway, Springfield, IL 62711, USA  
+- **Regional Offices:**  
+  - Cedar Hills Office — 9984 Agro Rd., Cedar Hills, IA
+  - Sunnyvale Office — 2340 Farm Lane, Sunnyvale, CA
+  - Midland Office — 1446 Midland Parkway, Midland, TX
+- **Contact Information:**  
+Tel: +1 (217) 555-7632  
+Fax: +1 (217) 555-7633  
+Website: www.agroteaminc.com  
+Email: info@agroteaminc.com
+
+---
+
+## Organizational Structure:
+
+### Executive Team:
+- CEO: Richard J. Stevenson  
+- CFO: Martha K. O’Neill  
+- COO: Samuel P. Richardson  
+- CTO: Jennifer L. Alvarez  
+- Chief Agronomist: Dr. David B. Thornton  
+
+### Agronomy Department Staff:
+- East-Central Region Manager: Amanda C. Summers  
+- West Region Manager: Robert L. Johnson  
+- South Region Coordinator: Sonia M. Patel  
+- North Region Coordinator: Thomas W. Carver  
+
+### Sales and Product Management Team:
+- Senior Sales Executive: Karen W. Miller
+- Product Line Supervisor: Malcolm X. Freeman  
+- Agricultural Equipment Specialist: Lucas T. Bennett  
+- Seed Solutions Supervisor: Olivia Q. Gallagher  
+
+### Customer Support Staff:
+- Customer Relations Manager: Joshua D. Edwards  
+- Technical Support Supervisor: Monica L. Reyes  
+- After-Sales Support Officer: Kenneth F. Sanders  
+
+---
+
+## Products & Price List (2023–2024 Season):
+
+### Agricultural Seeds:
+| SKU | Product Name | Crop Type | Specification | Pack Size | Price per Unit (USD) |
+|-----|--------------|-----------|---------------|-----------|----------------------|
+| AS-101 | AgroPrime Corn Hybrid XP-800 | Corn (Maize) | Drought resistant hybrid seed | 50 lb sack | $320.00 |
+| AS-102 | AgroPrime Soybean AS-215 | Soybean | Disease resistant, high yield | 50 lb bag | $295.00 |
+| AS-103 | AgroSun Sunflower SF-Gold | Sunflower | Oil-rich variety | 25 lb sack | $250.00 |
+| AS-104 | AgroWheat Golden Spring GW-700 | Wheat | Spring wheat, High Protein | 60 lb sack | $180.00 |
+
+### Fertilizers & Crop Nutrition Products:
+| SKU | Product Name | Fertilizer Type | Pack Size | Price per Unit (USD) |
+|-----|--------------|-----------------|-----------|----------------------|
+| AF-201 | AgroGrow Nitrogen Booster Urea-46 | Granular Urea Fertilizer | 100 lb sack | $65.00 |
+| AF-202 | AgroGrow Phosphate Advantage 12-52-0 | Monoammonium Phosphate (MAP) | 50 lb bag | $40.00 |
+| AF-203 | AgroGrow Potash Strong 0-0-60 | Potassium Chloride (MOP) | 50 lb sack | $38.00 |
+| AF-204 | AgroGrow Balanced NPK (19-19-19) | NPK Fertilizer Blend | 50 lb bag | $42.00 |
+
+### Crop Protection Products:
+| SKU | Product Name | Classification | Specification | Pack Size | Price per Unit (USD) |
+|-----|--------------|----------------|---------------|-----------|----------------------|
+| ACP-301 | AgroGuard Herbicide Clearfield | Herbicide | Post-emergent selective formula | 1 Gallon | $74.00 |
+| ACP-302 | AgroShield Fungicide AX-Force | Fungicide | Broad-spectrum control | 2.5 Gallons | $235.00 |
+| ACP-303 | AgroPest Insecticide Feather-2X | Insecticide | Fast action, minimal residue | 1 Gallon | $145.00 |
+
+### Agricultural Technologies & Equipment:
+| SKU | Product Name | Equipment Type | Features | Unit Price (USD) |
+|-----|--------------|----------------|----------|------------------|
+| ATE-401 | SmartFarm Soil Moisture Sensor SM-7 | IoT sensor | Wireless, Real-time Monitoring | $215.00 |
+| ATE-402 | Drone Crop Imaging Kit DIK-4000 | UAV drone | Multispectral imaging, crop health detection | $4,500.00 |
+| ATE-403 | GPS-Guided Fertilizer Spreader FlexSpread 400 | Machinery | Precision spreading, GPS control | $12,500.00 |
+
+---
+
+## Policy Summaries:
+
+### Returns & Refunds Policy:
+Agro Team Inc. accepts returns within 30 days of purchase. Products returned must be in original packaging and accompanied by an original purchase receipt. Agro Team Inc. does not accept opened, used, or damaged products. Refunds will be processed within 5-7 business days.
+
+### Delivery & Shipping Policy:
+Agro Team Inc. provides nationwide delivery within 10 business days. Expedited shipping (3-5 business days) is available at additional charges. Orders exceeding $15,000.00 qualify for free standard shipping.
+
+### Customer Support Guidelines:
+Agro Team Inc. provides customer support Monday–Saturday between 08:00 AM–06:00 PM CST. Technical issues should be communicated to the assigned technical support supervisor (Monica L. Reyes), reachable at techsupport@agroteaminc.com or via phone at +1 (217) 555-7667.
+
+---
+
+## Recent Projects and Partnerships:
+
+- **AgroTech Initiative (2023-Present):** Collaborating with Midwest University to deliver IoT integrated farming systems for increased efficiency and yield optimization.
+- **Sustainable Harvest Partnership (2022-2025):** In coordination with Green Earth NGO, Agro Team Inc. promotes sustainable agricultural practices by providing subsidized eco-friendly fertilization and pest management solutions to local farms.
+
+---
+
+## Internal Project Terminology for LLM/Corpus Reference:
+- AgroPrime™ – Indicates premium quality hybrid seed products.
+- AgroGrow™ – Designation for fertilizer products specialized to meet different crop nutrient requirements.
+- AgroGuard™ – A portfolio covering herbicides, fungicides, and insecticides.
+- SmartFarm™ – Brand name for smart agriculture IoT integration equipment.
+
+---
+
+## Confidential Internal Reference Information:
+- Annual Sales Target for 2024: $27 million USD
+- Priority Expansion Regions: Northeastern USA (Ohio, Pennsylvania, and New York) and Southeastern USA (Georgia, Alabama, Florida)
+- Planned new product development for 2024: AgroPrime Corn Hybrid XP-950, Enhanced drought tolerance variety, targeted price approximately $345 per 50 lb sack.
+
+---
+
+## Ethos & Mission Statements (For Internal Training Use):
+- **Company Vision**: Lead sustainability and technological advancement in agriculture by empowering farmers and agronomists with innovative products and expert advice.
+- **Core Values**: Reliability, Sustainability, Community Engagement, Technological Innovation, and Customer Satisfaction.
+

@@ -1,0 +1,9 @@
+.env
+.python-version
+.DS_Store
+.deepeval*
+
+__pycache__/
+*.pyc
+
+_archive/

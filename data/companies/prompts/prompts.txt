@@ -1,0 +1,10 @@
+Generate me a private corpus with some details mentioning the imagined 
+NeonByte Interactive – Video game development and VR/AR experiences
+A list of products, prices, responsible stuff, etc.
+I want to use it as my private corpus for the LLM fine-tuning
+You can generate really a lot of the text. The more the better. 
+
+------
+
+generate 20 questions & answers from the dataset above, structure them in 
+the python list with "question" & "answer" fields

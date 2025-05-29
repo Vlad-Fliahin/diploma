@@ -1,0 +1,702 @@
+[
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because there are no irrelevant statements in the actual output, reflecting a perfectly relevant response to the question asked.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions found, indicating that the actual output perfectly aligns with the provided retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.15 because, while it includes relevant statements about the CTO's background and contributions, the majority of the context is unrelated, focusing instead on the company's mission and other executives. For example, it mentions the CTO's contributions in only two statements, but the numerous irrelevant reasons, such as the focus on the CEO's vision and the COO's role, dilute the overall relevance.",
+            "score": 0.15384615384615385
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the response directly addressed the input question about the benefits of the Poseidon Explorer to the Arctic Research Consortium without including any irrelevant statements.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 0.00 because the actual output incorrectly attributes accomplishments and responsibilities, such as the completion of Arctic missions and the collection of ice core samples, to the Arctic Research Consortium instead of Poseidon Explorer, contradicting the retrieval context.",
+            "score": 0.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.67 because while the context mentions 'successfully completed 5 Arctic research missions' and 'improved data collection efficiency by 60%', it fails to address how these specifically benefit the Arctic Research Consortium, thereby lacking direct relevance to the query.",
+            "score": 0.6666666666666666
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because there were no irrelevant statements in the actual output, indicating that the response was fully relevant and directly addressed the inquiry about advancements in Vertex World's AI system.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions found, indicating that the actual output perfectly aligns with the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.35 because the majority of the retrieval context lacked specifics on 'advancements in Vertex World's AI system', focusing instead on unrelated topics like leadership and supply chain optimization. However, certain relevant statements mention 'Integrating advanced AI algorithms' and 'an evolved AI system', indicating some connection to the input, but not enough to collectively raise the score.",
+            "score": 0.35294117647058826
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because there were no irrelevant statements in the response, indicating that the answer was fully relevant and addressed the input question directly.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions in the actual output, indicating perfect alignment with the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.12 because the vast majority of the retrieval context discusses unrelated aspects such as 'scholarships', 'sustainability initiatives', and 'advanced courses', which do not pertain to the length of the Tech Bootcamp Series. However, it did mention 'Duration: 6-week intensive part-time course.' that provides the relevant information needed, making this input contextually disconnected overall.",
+            "score": 0.11764705882352941
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because all statements in the response were directly relevant to the question about the partnership with Vertex MedTech.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context. Great job!",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.17 because while the retrieval context includes 'Vertex MedTech is partnered with BioInnovate Solutions for developing biocompatible materials,' the majority of the context, such as 'Vertex MedTech's partnership with HealthSync AI focuses on AI technologies,' is irrelevant and fails to answer the question about specific partnerships.",
+            "score": 0.16666666666666666
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because there are no irrelevant statements in the actual output, making the response fully relevant to the inquiry about Vertex MedTech's partnerships email.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions found, indicating that the actual output is fully aligned with the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.06 because while the retrieval context does mention 'Partnership Inquiries: partnerships@vertexmedtech.com', most of the other statements focus on unrelated topics like resource sharing and market expansion, failing to provide direct contact information for the inquiry.",
+            "score": 0.0625
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the output was completely relevant, directly addressing the query about the AgroGrow Nitrogen Booster Urea-46 without any irrelevant statements.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 0.00 because the actual output mentions a generic term 'Granular Urea Fertilizer' instead of the specific product name 'AgroGrow Nitrogen Booster Urea-46', leading to a complete mismatch.",
+            "score": 0.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.44 because, while relevant statements like 'AgroGrow Nitrogen Booster Urea-46 is a Granular Urea Fertilizer.' and 'AgroGrow Nitrogen Booster Urea-46 | Granular Urea Fertilizer | 100 lb sack | $65.00' provide key information, the retrieval context also includes multiple unrelated statements about other products, such as 'premium quality hybrid seed products' and 'herbicides, fungicides, and insecticides', which dilute its relevance.",
+            "score": 0.4444444444444444
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the output precisely addresses the inquiry about Vertex MedTech\u2019s mission with no irrelevant statements.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions found; the actual output aligns perfectly with the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.30 because the majority of the retrieval context lacks relevance to Vertex MedTech's mission, focusing instead on unrelated companies and products. However, relevant statements highlight the commitment to innovation and pioneering medical technologies, which directly relate to the mission.",
+            "score": 0.3
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because there are no irrelevant statements in the actual output, indicating a perfect alignment with the input question.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions, indicating that the actual output perfectly aligns with the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.09 because, while the relevant statement mentions a sustainability initiative regarding the 'Green Maritime Initiative (GMI)', the overall context fails to provide any information that connects to sustainability as it focuses on corporate history and product details, making the significant majority of data irrelevant.",
+            "score": 0.09090909090909091
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because there are no irrelevant statements in the actual output, making the response fully relevant and directly addressing the question asked.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.10 because the retrieval context primarily focuses on topics such as 'new market segments and international partnerships' and 'investor information', which do not address the founding year of NeonByte Interactive. Although there is a relevant statement noting 'NeonByte Interactive was founded in 2017,' it is overshadowed by the overwhelming irrelevance of the other statements, resulting in a low contextual relevancy score.",
+            "score": 0.1
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 0.00 because the output included vague statements about research initiatives and educational programs without specifically addressing the area of partnership with the University of Health Sciences.",
+            "score": 0.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions, indicating that the actual output aligns perfectly with the retrieval context. Keep up the great work!",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.24 because, although there are relevant mentions of 'University of Health Sciences - Collaboration Type: Academic Partnership' and 'Focus: Research initiatives and educational programs', the majority of the context focuses on unrelated areas such as patient monitoring and market reach, which do not address the specific partnership details.",
+            "score": 0.23529411764705882
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because there were no irrelevant statements in the actual output, which perfectly addressed the features of the LungGuard Pulmonary Device.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output aligns perfectly with the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.31 because while there are a few relevant statements such as 'A non-invasive device for real-time lung function monitoring', most of the context includes irrelevant information such as 'Continuous ECG monitoring' and details on unrelated products like herbicides and fungicides, which dilute the overall relevance.",
+            "score": 0.3125
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because there are no irrelevant statements in the actual output, making it perfectly relevant to the question about warranty coverage offered by Ukraine Boats Inc. Great job staying on topic!",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output aligns perfectly with the retrieval context. This reflects a high degree of faithfulness.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.23 because while there are relevant statements like 'All boats come with a 5-year warranty covering manufacturing defects,' the majority of the context is focused on unrelated aspects such as luxury customization and corporate values, making it largely irrelevant to the input query.",
+            "score": 0.23076923076923078
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the response directly addressed the question about the price of AgroPrime Soybean AS-215 without including any irrelevant statements.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output accurately aligns with the information provided in the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.09 because although there is a relevant statement listing the price of 'AgroPrime Soybean AS-215' as '$295.00', the rest of the retrieval context is filled with unrelated information about different products, shipping, and customer support that detracts from the overall relevance.",
+            "score": 0.09090909090909091
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because there are no irrelevant statements in the actual output, indicating that all provided information directly addresses the input question about NeonByte Interactive's sustainability practices.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions between the actual output and the retrieval context, indicating perfect alignment.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.12 because most of the retrieval context focuses on irrelevant topics such as community engagement and technology innovation rather than sustainability practices. However, the relevant statements highlight NeonByte Interactive's commitment to 'reducing its carbon footprint by using renewable energy sources' and that 'an internal task force ensures ongoing improvements in sustainable practices,' which are crucial for understanding their sustainability efforts.",
+            "score": 0.125
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the response directly addresses the input question regarding a strategic initiative of NeonByte Interactive without any irrelevant statements.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.50 because while there are some relevant statements regarding NeonByte Interactive\u2019s commitment to sustainability and innovation, such as their mission statement about creating immersive digital experiences and initiatives to reduce carbon footprint, many other statements in the retrieval context lack specifics on strategic initiatives, such as 'CEO: Emily Tran' and 'Founded: 2017', which detract from the overall relevance.",
+            "score": 0.5
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because there are no irrelevant statements in the actual output, perfectly addressing the input about the MediGlide Surgical Robot's features.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output is fully aligned with the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.27 because while the context mentions relevant features like 'An advanced robotic assistant for precision surgeries' and 'Haptic feedback technology', it is overshadowed by numerous irrelevant details such as 'Price: $15,000' and 'Collaboration Type: Research and Development', which detracts from the overall relevance.",
+            "score": 0.2727272727272727
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because all provided information directly addressed the advancement in Vertex World's AI system without any irrelevant statements.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output fully aligns with the information provided in the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.32 because although there are relevant statements regarding advancements in the AI system, such as 'Integrating advanced AI algorithms into Vertex MedTech devices' and 'The game's ecosystem now features an evolved AI system that provides unique interactions with non-player characters (NPCs)', the majority of the context provided is unrelated to AI, focusing instead on collaboration types and irrelevant details. This lack of connection led to a low relevancy score.",
+            "score": 0.3157894736842105
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the output directly addressed the question about CEO Elena Richter's vision for Quantum Forge without including any irrelevant statements.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions, indicating perfect alignment between the actual output and the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.15 because the retrieval context lacks specific insights into CEO Elena Richter's vision. For instance, statements like 'Looking ahead, Quantum Forge Technologies aims to expand the reach of quantum technologies into new verticals' do not directly address her vision, which diminishes relevancy.",
+            "score": 0.15384615384615385
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 0.00 because the response included several irrelevant statements that do not identify any specific strategic initiatives of NeonByte Interactive, such as mentioning live streams and forums, which are engaging but not strategic in nature.",
+            "score": 0.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the information from the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.67 because while some relevant statements exist, such as 'NeonByte Interactive is committed to reducing its carbon footprint by using renewable energy sources' and 'to create immersive, cutting-edge digital experiences...', the majority of the retrieval context contains irrelevant information, like 'A dedicated team exploring new VR/AR' and 'Founded in 2017', which do not directly pertain to strategic initiatives.",
+            "score": 0.6666666666666666
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the response directly addressed the question about the price of Echo Nexus without any irrelevant statements. This demonstrates clarity and focus in providing the relevant information.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 0.00 because the actual output incorrectly states the game's price as $59.99, directly contradicting the retrieval context's claim of it being $39.99.",
+            "score": 0.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.11 because while the retrieval context contains relevant pricing statements such as 'Price: $59.99' and 'The price of Echo Nexus is $39.99', the overwhelming majority of the context refers to unrelated details like platforms, developer names, and gameplay features, which do not address the price question.",
+            "score": 0.1111111111111111
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 0.75 because there was an irrelevant statement about feedback loops that did not directly relate to the specific offerings of the interactive learning module in DreamScape Academy.",
+            "score": 0.75
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions, indicating the actual output is entirely aligned with the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.25 because many statements in the retrieval context are unrelated to the interactive learning module in DreamScape Academy, such as those focused on VR field trips and 'My Monster Friend'. However, there are relevant statements like 'Interactive Learning Modules: New modules incorporate AI-driven personalization...' which indicate some positive alignment.",
+            "score": 0.25
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the response directly addresses the input with relevant information about what QubitSim Pro offers to universities, and there are no irrelevant statements present.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions, indicating that the actual output perfectly aligns with the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.58 because while there are relevant statements like 'QubitSim Pro is a sophisticated quantum simulation software designed for research institutions and universities.' and 'QubitSim Pro has an Education Mode designed for universities, with classroom integration and teacher-led demonstrations.', the retrieval context also contains several irrelevant statements that detract from understanding what QubitSim Pro offers specifically to universities.",
+            "score": 0.5833333333333334
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the response directly addressed the query about the lead developer for Fantasy Realms: The Awakening without introducing any irrelevant information.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions, indicating that the actual output perfectly aligns with the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.11 because while there are mentions of lead developers, such as 'Lead Developer: Claire Nakamura' and 'Lead Developer: Leo Tanaka', the majority of the context provided is irrelevant, citing features and other games, thus failing to effectively answer the query about the lead developer for Fantasy Realms: The Awakening.",
+            "score": 0.1111111111111111
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the output directly addresses the question about the SKU for the SmartFarm Soil Moisture Sensor without including any irrelevant statements.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.09 because while the relevant statement '| ATE-401 | SmartFarm Soil Moisture Sensor SM-7 | IoT sensor | Wireless, Real-time Monitoring | $215.00 |' includes the SKU, the majority of the surrounding context is irrelevant, focusing on unrelated products and policies.",
+            "score": 0.09090909090909091
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because there were no irrelevant statements in the output, and the response directly addressed the question regarding the gaming element featured in BattleFront Corps.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions found, indicating perfect alignment between the actual output and the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.44 because the retrieval context contains statements that touch on gaming elements, such as 'the new engine provides accurate physics modeling' and 'destructible environments add layers of strategy to gameplay', but these do not specifically address what gaming element is featured in BattleFront Corps. The focus on features like 'VR and traditional gameplay modes' and 'persistent squad customization' indicates relevant gameplay aspects, yet they lack direct correlation to the input question.",
+            "score": 0.4375
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because all the statements were directly relevant to describing a standout feature of My Monster Friend, with no irrelevant information present.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 0.67 because the actual output misrepresents the scope of the enhanced social features; it mentions connecting with friends, which is not explicitly stated in the retrieval context.",
+            "score": 0.6666666666666666
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.70 because while applicable statements like 'Expanded options allow players to customize their pets' and 'An AR game for younger audiences...' are relevant, many details are unrelated, such as references to 'Neon Racing Madness' and pricing, making the context only partially relevant.",
+            "score": 0.7
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 0.33 because irrelevant statements about Dr. Li Wei's expertise and general information about the component were included, which do not directly address the question of responsibility. These distractions lower the score despite some relevant content present.",
+            "score": 0.3333333333333333
+        },
+        "faithfulness": {
+            "reason": "The score is 0.50 because the actual output inaccurately attributes responsibility for the CryptoExpert component to Dr. Li Wei, a detail not mentioned in the retrieval context.",
+            "score": 0.5
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.07 because the retrieval context lacks specific details regarding responsibility for the CryptoExpert component in QF SecureComm. While it mentions 'Cryptography Expert: Dr. Li Wei', this does not clarify the direct accountability for the component, as indicated by multiple irrelevant references to individuals and roles that are unrelated to the inquiry.",
+            "score": 0.07142857142857142
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because there were no irrelevant statements in the output, directly addressing the question about the Quantum Insight Cloud.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output is perfectly aligned with the retrieval context. Keep up the great work!",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.25 because the majority of the retrieval context consists of irrelevant statements, such as pricing and team responsibilities, which do not directly address the offerings of 'Quantum Insight Cloud'. However, the relevant statements highlight that 'Quantum Insight Cloud is a cloud-based platform providing quantum-powered data analysis,' tailored for 'in-depth big data analytics and real-time processing.'. These provide a glimpse of the capabilities but are insufficient to justify a higher score.",
+            "score": 0.25
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because there are no irrelevant statements in the output, directly addressing the input question about the lead developer.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 0.00 because the actual output incorrectly implies that 'Claire Nakamura' is a document title, while the retrieval context clarifies that it refers to a person and a developer credit, leading to a complete misalignment.",
+            "score": 0.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.10 because the retrieval context largely failed to address the inquiry about the lead developer for Fantasy Realms: The Awakening, with the majority of statements discussing irrelevant features such as 'choice-driven outcomes' and 'platform: VR.' While it included 'Lead Developer: Claire Nakamura' and 'Lead Developer: Leo Tanaka,' these were lost within a sea of unrelated information, leading to a low relevance score.",
+            "score": 0.1
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the response directly addresses the input question without any irrelevant statements, providing clear and accurate information.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions between the actual output and the retrieval context, indicating that the output aligns perfectly with the information presented.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.08 because the stated reasons highlight that most information provided is unrelated to Vertex MedTech's partnerships, while the relevant statement 'Vertex MedTech is partnered with BioInnovate Solutions for developing biocompatible materials' is overshadowed by the other irrelevant comments.",
+            "score": 0.07692307692307693
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because all statements in the output are relevant to identifying the Lead Engineer for the VitaScan Portable Ultrasound.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output aligns perfectly with the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.05 because while the relevant statement identifies 'Lead Engineer: Lisa Nguyen', the retrieval context overwhelmingly contains unrelated information, such as 'The mission statement about improving patient care does not provide any information regarding the Lead Engineer' and many other statements that do not answer the question.",
+            "score": 0.047619047619047616
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because there are no irrelevant statements in the output, directly addressing the question with relevant information.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output fully aligns with the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.07 because despite the retrieval context mentioning 'Achieve carbon neutrality across all operations by 2030,' much of the rest of the information is irrelevant, with statements focusing on unrelated topics like partnerships and customer satisfaction.",
+            "score": 0.06666666666666667
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the response directly addressed the question about the price of the WindForce 3000 wind turbine without including irrelevant statements.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.06 because, while there is a relevant statement 'Price: $6000 per unit', the majority of the context provided is irrelevant, such as 'Lifespan: 5000 cycles' and 'Responsible Staff: Product Manager: Alex King', which do not contribute any pricing information.",
+            "score": 0.0625
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 0.00 because the output included an irrelevant statement about the cost being above $0, which does not provide a direct answer to the question asked about the cost of the MediGlide Surgical Robot.",
+            "score": 0.0
+        },
+        "faithfulness": {
+            "reason": "The score is 0.00 because the actual output incorrectly claims a price of '$0', contradicting the retrieval context that clearly states the price of OrthoFlex prosthetic devices is $5,000.",
+            "score": 0.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.23 because most statements in the retrieval context, such as 'MediGlide Surgical Robot is an advanced robotic assistant for precision surgeries' and 'Focus: Research initiatives and educational programs', do not address the cost question. While there are some relevant statements like 'The MediGlide Surgical Robot price is $15,000.' and 'Price: $25,000', their presence is overshadowed by irrelevant information.",
+            "score": 0.23076923076923078
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because there are no irrelevant statements in the actual output. The response directly addresses the question regarding the partnership with Midwest University.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 0.00 because the actual output incorrectly mentions the AgroTech Initiative, which is not found in the retrieval context that discusses Agro Team Inc. collaborating with Midwest University.",
+            "score": 0.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.20 because the main retrieval context focused on unrelated topics such as sustainable practices and partnerships with other universities, as seen in the statements about 'University of Health Sciences' and 'Dr. Samuel Price'. However, the relevant statements point to meaningful collaboration, such as 'Collaborating with Midwest University to deliver IoT integrated farming systems', which directly addresses the input query.",
+            "score": 0.2
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 0.00 because the response entirely failed to provide any relevant information about Rachel Liu's role at Blue Horizon Energy, instead indicating a lack of knowledge on the topic.",
+            "score": 0.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions found between the actual output and retrieval context, indicating perfect alignment and faithfulness.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.00 because there are no statements in the retrieval context that relate to Rachel Liu's role at Blue Horizon Energy. All provided statements either discuss general aspects of the company or contain customer testimonials, thus failing to address the specific query about Rachel Liu.",
+            "score": 0.0
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the output directly addresses the request to describe a unique feature of Neon Racing Madness without any irrelevant statements.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 0.75 because the actual output incorrectly incorporates VR technology in Neon Racing Madness, which is not referenced in the retrieval context.",
+            "score": 0.75
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.57 because while there are relevant statements about 'real-time weather changes' and 'customization of vehicles' that highlight unique features of Neon Racing Madness, many statements in the retrieval context, such as 'cutting-edge technology' and 'rewards creativity and problem-solving', do not specifically address unique aspects of the game. Thus, although there are some relevant points, the overall context does not align closely with the query.",
+            "score": 0.5714285714285714
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the response was fully relevant, directly addressing the shipping policy for high-value orders without any irrelevant content.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating a perfect alignment between the actual output and the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.18 because although there are relevant statements regarding shipping policy, such as 'Orders exceeding $15,000.00 qualify for free standard shipping,' the majority of the context discusses unrelated topics like returns and product acceptance, which diminishes overall relevancy.",
+            "score": 0.17647058823529413
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the response directly addresses the question asked without any irrelevant statements. This indicates a high level of accuracy and relevance in the information provided.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating complete alignment between the actual output and the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.12 because while the retrieval context does mention 'Lead Developer: Claire Nakamura' and 'Lead Developer: Leo Tanaka', the overwhelming majority of statements focus on unrelated aspects like 'choice-driven outcomes' and 'narrative depth', providing little pertinent information regarding the inquiry about the lead developer.",
+            "score": 0.11764705882352941
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 0.00 because the output completely fails to address the core inquiry about the partnership focus, offering no relevant information.",
+            "score": 0.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output fully aligns with the information in the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.00 because there are no relevant statements in the retrieval context that address the focus of the partnership with HealthSync AI. All provided reasons indicate a lack of specific information related to the partnership.",
+            "score": 0.0
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because there are no irrelevant statements in the actual output, perfectly addressing the user's request for contact information.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating a perfect alignment between the actual output and the retrieval context. This reflects a high level of accuracy and fidelity in the information presented.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.07 because the majority of the context fails to address the input's request for Agro Team Inc.'s contact email, with irrelevant points like customer support hours and policies. However, one relevant statement does provide an email: 'Technical issues should be communicated to the assigned technical support supervisor (Monica L. Reyes), reachable at techsupport@agroteaminc.com.' Despite this, it's not the main contact email requested, leading to a low relevancy score.",
+            "score": 0.07142857142857142
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the output directly addressed the question about the Lead Engineer for the VitaScan Portable Ultrasound with no irrelevant statements. The response was completely on-topic, providing precise information without deviation.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions, indicating the actual output is perfectly aligned with the retrieval context. Great job maintaining consistency!",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.10 because the majority of the retrieval context lacks relevant information, focusing instead on the company's mission and product features while failing to directly address the query. Notably, the only relevant statement, 'Lead Engineer: Lisa Nguyen,' stands out, but it is overshadowed by unrelated details regarding product management and pricing.",
+            "score": 0.1
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the response directly addresses the input question without including any irrelevant statements.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 0.92 because there are no contradictions present, indicating that the actual output closely aligns with the retrieval context.",
+            "score": 0.9166666666666666
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.14 because, despite the presence of the relevant statement 'Duration: 6-week intensive part-time course,' the retrieval context is largely filled with irrelevant information, including mentions of unrelated topics like 'green data centers' and 'carbon footprint,' which do not pertain to the duration of the Tech Bootcamp Series.",
+            "score": 0.14285714285714285
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 0.50 because the answer included irrelevant information about the project location instead of focusing on Dr. Laura Chen's specific role at Blue Horizon Energy.",
+            "score": 0.5
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.08 because the majority of the retrieval context is irrelevant, with statements like 'Lead Scientist: Dr. Michael Turner' providing no information on Dr. Laura Chen. However, the relevant statement 'Dr. Laura Chen is the Lead Scientist for the Next-Gen Solar Technology project' shows her role, but it was overshadowed by many unrelated details.",
+            "score": 0.07692307692307693
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the output accurately addresses the question without including any irrelevant statements.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions between the actual output and the retrieval context, indicating complete alignment and accuracy!",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.08 because the majority of the retrieval context fails to address the question regarding the founding year, focusing instead on aspects like partnerships and financial details. However, there is a precise statement, 'NeonByte Interactive was founded in 2017,' which is the only relevant detail that directly answers the inquiry.",
+            "score": 0.08333333333333333
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the response provided was entirely relevant and directly addressed the question regarding the price of the EnergyVault X storage solution without any irrelevant statements.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output aligns perfectly with the retrieval context. Keep up the great work!",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.08 because the relevant statement '$6000 per unit' is overshadowed by numerous irrelevant pieces of information. The retrieval context includes several unrelated details, such as testimonials and statistics about yachts and client satisfaction, which do not assist in determining the price of the EnergyVault X storage solution.",
+            "score": 0.08333333333333333
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because there are no irrelevant statements in the actual output, making the answer completely relevant to the input question.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions, indicating that the actual output perfectly aligns with the retrieval context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.40 because while some statements mention relevant features like 'accurate physics modeling' and 'destructible environments', many other statements lack specificity or relevance to the specific gaming element in BattleFront Corps, such as 'voice chat features' and 'the price of the game'.",
+            "score": 0.4
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the response directly addresses the question about the price of the NeuroWave EEG System without providing any irrelevant information.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions between the actual output and the retrieval context, indicating perfect alignment.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.15 because the retrieval context primarily includes irrelevant details such as product staff and features, which do not relate to the price inquiry, while the relevant price details ('**Price**: $10,000', 'Price: $25,000', 'Price: $2,500') are distinctly stated but limited in quantity.",
+            "score": 0.15
+        }
+    },
+    {
+        "answer_relevancy": {
+            "reason": "The score is 1.00 because the output is directly relevant to the question asked, with no irrelevant statements included.",
+            "score": 1.0
+        },
+        "faithfulness": {
+            "reason": "The score is 1.00 because there are no contradictions between the actual output and the retrieval context, indicating that the output aligns perfectly with the provided context.",
+            "score": 1.0
+        },
+        "contextual_relevancy": {
+            "reason": "The score is 0.08 because there is a mismatch between the context and the specific request for a contact email. While the relevant statement does provide 'Partnership Inquiries: partnerships@vertexmedtech.com', most of the other statements discuss unrelated topics such as resource sharing and market expansion, clearly indicating a lack of contextual alignment.",
+            "score": 0.07692307692307693
+        }
+    }
+]

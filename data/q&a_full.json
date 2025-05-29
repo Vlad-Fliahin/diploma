@@ -1,0 +1,552 @@
+[
+    {
+        "question": "What is the primary focus of Ukraine Boats Inc.?",
+        "answer": "Ukraine Boats Inc. specializes in manufacturing high-quality recreational, luxury, and commercial boats, blending traditional craftsmanship with modern technology.",
+        "src": "ukraine-boats-inc"
+    },
+    {
+        "question": "What is the price range for recreational boats offered by Ukraine Boats Inc.?",
+        "answer": "Recreational boats range from $32,000 for the WaveRunner X200 to $55,000 for the SolarGlide EcoBoat.",
+        "src": "ukraine-boats-inc"
+    },
+    {
+        "question": "Which manufacturing facility focuses on bespoke yachts and customizations?",
+        "answer": "The Lviv Custom Craft Workshop specializes in bespoke yachts and high-end customizations, including handcrafted woodwork and premium materials.",
+        "src": "ukraine-boats-inc"
+    },
+    {
+        "question": "What is the warranty coverage offered for boats by Ukraine Boats Inc.?",
+        "answer": "All boats come with a 5-year warranty for manufacturing defects, while engines are covered under a separate 3-year engine performance guarantee.",
+        "src": "ukraine-boats-inc"
+    },
+    {
+        "question": "Which client used the Neptune Voyager catamaran, and what was the impact on their business?",
+        "answer": "Paradise Resorts International used the Neptune Voyager catamarans, resulting in a 45% increase in resort bookings and winning the 'Best Tourism Experience' award.",
+        "src": "ukraine-boats-inc"
+    },
+    {
+        "question": "What award did the SolarGlide EcoBoat win at the Global Marine Design Challenge?",
+        "answer": "The SolarGlide EcoBoat won the 'Best Eco-Friendly Design' award at the Global Marine Design Challenge in 2022.",
+        "src": "ukraine-boats-inc"
+    },
+    {
+        "question": "How has the Arctic Research Consortium benefited from the Poseidon Explorer?",
+        "answer": "The Poseidon Explorer enabled five successful Arctic research missions, increased data collection efficiency by 60%, and improved safety in extreme conditions.",
+        "src": "ukraine-boats-inc"
+    },
+    {
+        "question": "What is the price of the Odessa Opulence 5000 luxury yacht?",
+        "answer": "The Odessa Opulence 5000 luxury yacht starts at $1,500,000.",
+        "src": "ukraine-boats-inc"
+    },
+    {
+        "question": "Which features make the WaveRunner X200 suitable for watersports?",
+        "answer": "The WaveRunner X200 features a top speed of 85 mph, a lightweight carbon-fiber hull, built-in GPS, and autopilot mode, making it ideal for watersports.",
+        "src": "ukraine-boats-inc"
+    },
+    {
+        "question": "What sustainability initiative is Ukraine Boats Inc. pursuing?",
+        "answer": "Ukraine Boats Inc. is pursuing the Green Maritime Initiative (GMI) to reduce the carbon footprint by incorporating renewable energy solutions in 50% of their fleet by 2030.",
+        "src": "ukraine-boats-inc"
+    },
+    {
+        "question": "What is the headquarters address of Agro Team Inc.?",
+        "answer": "4234 Greenfield Parkway, Springfield, IL 62711, USA",
+        "src": "agro-team-inc"
+    },
+    {
+        "question": "Who is the CEO of Agro Team Inc.?",
+        "answer": "Richard J. Stevenson",
+        "src": "agro-team-inc"
+    },
+    {
+        "question": "Name one crop type offered by Agro Team Inc.",
+        "answer": "Corn (Maize)",
+        "src": "agro-team-inc"
+    },
+    {
+        "question": "What is the price of the AgroPrime Soybean AS-215 per unit?",
+        "answer": "$295.00",
+        "src": "agro-team-inc"
+    },
+    {
+        "question": "Who should technical issues be reported to?",
+        "answer": "Monica L. Reyes",
+        "src": "agro-team-inc"
+    },
+    {
+        "question": "How long is the returns policy valid for Agro Team Inc. products?",
+        "answer": "30 days from purchase.",
+        "src": "agro-team-inc"
+    },
+    {
+        "question": "What is the contact email for Agro Team Inc.?",
+        "answer": "info@agroteaminc.com",
+        "src": "agro-team-inc"
+    },
+    {
+        "question": "What is the price of the AgroPest Insecticide Feather-2X per unit?",
+        "answer": "$145.00",
+        "src": "agro-team-inc"
+    },
+    {
+        "question": "What is the core mission of Agro Team Inc.?",
+        "answer": "To lead sustainability and technological advancement in agriculture by empowering farmers and agronomists with innovative products and expert advice.",
+        "src": "agro-team-inc"
+    },
+    {
+        "question": "What is the role of Dr. David B. Thornton at Agro Team Inc.?",
+        "answer": "Chief Agronomist",
+        "src": "agro-team-inc"
+    },
+    {
+        "question": "What is the shipping policy for orders above $15,000?",
+        "answer": "Orders exceeding $15,000.00 qualify for free standard shipping.",
+        "src": "agro-team-inc"
+    },
+    {
+        "question": "What is the SKU for the SmartFarm Soil Moisture Sensor?",
+        "answer": "ATE-401",
+        "src": "agro-team-inc"
+    },
+    {
+        "question": "What type of product is the AgroGrow Nitrogen Booster Urea-46?",
+        "answer": "Granular Urea Fertilizer",
+        "src": "agro-team-inc"
+    },
+    {
+        "question": "Which initiative partners with Midwest University?",
+        "answer": "AgroTech Initiative",
+        "src": "agro-team-inc"
+    },
+    {
+        "question": "What is the planned price for the AgroPrime Corn Hybrid XP-950?",
+        "answer": "Approximately $345 per 50 lb sack.",
+        "src": "agro-team-inc"
+    },
+    {
+        "question": "What is the primary mission of Quantum Forge Technologies?",
+        "answer": "To unlock the potential of quantum domains to solve real-world problems and push technological boundaries.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "How much does a license for the QF AI Accelerate Suite cost?",
+        "answer": "$75,000 per license.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "Who is the lead developer for the QF AI Accelerate Suite?",
+        "answer": "Dr. Aisha Khan.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "What does QubitSim Pro offer to universities?",
+        "answer": "A quantum simulation software designed for education, including classroom integration and demonstrations.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "How is the PhotonLink Network Solutions tailored for financial institutions?",
+        "answer": "By using quantum entanglement for ultra-fast, secure networking solutions.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "What industries benefit from the Quantum Insight Cloud?",
+        "answer": "Finance, telecommunications, and retail.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "Who leads the 24/7 customer support team?",
+        "answer": "Andrea Lopez.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "What is the focus of the Quantum Materials Initiative?",
+        "answer": "Developing new materials to improve qubit coherence times.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "What is Quantum Forge's CTO's contribution?",
+        "answer": "Dr. Rajesh Nair developed foundational technologies powering Quantum Forge’s products.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "What price is set for QF SecureComm deployment?",
+        "answer": "$50,000 per deployment.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "Who is responsible for the CryptoExpert component in QF SecureComm?",
+        "answer": "Dr. Li Wei.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "What are the components of the QF AI Accelerate Suite?",
+        "answer": "AI Model Trainer, Predictive Analysis Tool, and Custom AI Solutions.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "How long is the Tech Bootcamp Series at Quantum Forge Academy?",
+        "answer": "It is a 6-week intensive part-time course.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "In which cities does Quantum Forge Technologies have regional offices?",
+        "answer": "London, Tokyo, Munich, Sydney, Bengaluru.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "What is the vision of CEO Elena Richter for Quantum Forge?",
+        "answer": "To democratize access to quantum computing and AI.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "What is the consultation rate for Customized Solutions at Quantum Forge?",
+        "answer": "$500/hour.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "What does the Quantum Insight Cloud offer?",
+        "answer": "A cloud-based platform providing quantum-enhanced data analysis.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "What kind of encryption does QF SecureComm utilize?",
+        "answer": "Quantum Key Distribution (QKD) for unbreakable encryption.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "Who leads the Global Partnerships at Quantum Forge?",
+        "answer": "Lara Johnson.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "What initiative focuses on intersections between classical AI and quantum capabilities?",
+        "answer": "The AI-Quantum Synergy Lab.",
+        "src": "quantum-forge-technologies"
+    },
+    {
+        "question": "What is the mission of Blue Horizon Energy?",
+        "answer": "To innovate and provide clean, sustainable energy solutions to support a greener future.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "Where is Blue Horizon Energy headquartered?",
+        "answer": "San Francisco, CA, USA.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "What is the power output of the SunStar Max solar panels?",
+        "answer": "400W.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "Who is the Product Manager for the InvertPro S200?",
+        "answer": "Lucy Gray.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "What is the price of the EnergyVault X storage solution per unit?",
+        "answer": "$6000 per unit.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "What role does Dr. Laura Chen have at Blue Horizon Energy?",
+        "answer": "Lead Scientist for the Next-Gen Solar Technology project.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "What is the main goal of the 'Solar for Schools' program?",
+        "answer": "Equip 50 schools with solar panels by 2025.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "Who is the CEO of Blue Horizon Energy?",
+        "answer": "Emily Carter.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "When is the Offshore Wind Energy project prototype testing scheduled?",
+        "answer": "Q2 2025.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "What is the efficiency of the GeoHeat Pro geothermal heat pumps?",
+        "answer": "COP: 4.5.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "What is the price of the WindForce 3000 wind turbine?",
+        "answer": "$5000 per turbine.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "Who is responsible for the Installation Services at Blue Horizon Energy?",
+        "answer": "Mike Johnson.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "What is the objective of the 'Global Renewable Alliance' partnership?",
+        "answer": "Collective effort to address global energy challenges.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "What year does Blue Horizon Energy aim to achieve carbon neutrality?",
+        "answer": "By 2030.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "What is Rachel Liu’s role at Blue Horizon Energy?",
+        "answer": "Head Consultant for Consultancy Services.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "What is the name of Blue Horizon Energy’s solar inverter product?",
+        "answer": "InvertPro S200.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "What is the capacity of the EnergyVault X storage solution?",
+        "answer": "10kWh.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "What is the price for Blue Horizon Energy's consultancy services per hour?",
+        "answer": "$200/hour.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "Who is the CTO of Blue Horizon Energy?",
+        "answer": "Gregory Evans.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "What is the efficiency of the SunStar Max solar panels?",
+        "answer": "22%.",
+        "src": "blue-horizon-energy"
+    },
+    {
+        "question": "What is NeonByte Interactive's mission statement?",
+        "answer": "To create immersive, cutting-edge digital experiences that revolutionize how people interact with gaming and technology.",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "Who is the CEO of NeonByte Interactive?",
+        "answer": "Emily Tran",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "Which platform does Vertex World use?",
+        "answer": "VR (Oculus Rift, HTC Vive)",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "What is the price of Echo Nexus?",
+        "answer": "$39.99",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "Which product is aimed at younger audiences?",
+        "answer": "My Monster Friend",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "What is the release year of BattleFront Corps?",
+        "answer": "2021",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "Describe a unique feature of Neon Racing Madness.",
+        "answer": "New tracks feature real-time weather changes that affect race conditions.",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "What advancement was made in Vertex World's AI system?",
+        "answer": "NPCs adapt their behaviors based on player actions.",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "What educational feature is enhanced in DreamScape Academy?",
+        "answer": "Interactive learning modules incorporate AI-driven personalization.",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "Who is the lead developer for Fantasy Realms: The Awakening?",
+        "answer": "Claire Nakamura",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "What engine improvement was made for battle physics in BattleFront Corps?",
+        "answer": "The new engine provides accurate physics modeling for realistic interactions.",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "What new functionality is available in Echo Nexus?",
+        "answer": "Advanced AR capabilities offer seamless integration with real-world environments.",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "What is a key educational feature of DreamScape Academy?",
+        "answer": "VR field trips offer students immersive experiences in historical locations.",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "What aspect does Jenna Lee focus on as the Head of Marketing?",
+        "answer": "Digital marketing strategies for tech startups.",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "What is a standout feature of the product, My Monster Friend?",
+        "answer": "Expanded options allow players to personalize their virtual pets with diverse appearances.",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "What does the interactive learning module in DreamScape Academy provide?",
+        "answer": "The modules incorporate AI-driven personalization for tailored educational content.",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "What enhancement does Neon Racing Madness offer regarding vehicles?",
+        "answer": "Players can customize vehicles with a wide range of parts and visuals.",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "What is the projected release year of Recon 2077?",
+        "answer": "Late 2024",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "How does NeonByte Interactive support its sustainability practices?",
+        "answer": "By using renewable energy sources and digital-only releases.",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "What is an innovation in multiplayer functionality in Vertex World?",
+        "answer": "New cooperative quests and in-game voice chat features.",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "Who led the development of Echo Nexus?",
+        "answer": "Maya Singh",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "What is a strategic initiative of NeonByte Interactive?",
+        "answer": "Community engagement with regular developer live streams and feedback forums.",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "What is the price of DreamScape Academy for institutions?",
+        "answer": "$199.99",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "In what year was NeonByte Interactive founded?",
+        "answer": "2017",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "What gaming element is featured in BattleFront Corps?",
+        "answer": "Team-based objectives and persistent squad customization.",
+        "src": "neonbyte-interactive"
+    },
+    {
+        "question": "What is Vertex MedTech’s mission?",
+        "answer": "To pioneer advanced medical technologies that enhance the quality of life and empower healthcare professionals.",
+        "src": "vertex-medtech"
+    },
+    {
+        "question": "What type of device is the VitaScan?",
+        "answer": "A compact and versatile ultrasound device designed for point-of-care imaging.",
+        "src": "vertex-medtech"
+    },
+    {
+        "question": "How much does the MediGlide Surgical Robot cost?",
+        "answer": "$750,000",
+        "src": "vertex-medtech"
+    },
+    {
+        "question": "Who is the product manager for the HeartSync Cardiac Monitor?",
+        "answer": "Dr. Alex Rivera",
+        "src": "vertex-medtech"
+    },
+    {
+        "question": "What features does the LungGuard Pulmonary Device include?",
+        "answer": "Real-time data analytics, portable design, and cloud-based patient records.",
+        "src": "vertex-medtech"
+    },
+    {
+        "question": "What is the price of the NeuroWave EEG System?",
+        "answer": "$25,000",
+        "src": "vertex-medtech"
+    },
+    {
+        "question": "Which product is designed for continuous patient heart health management?",
+        "answer": "HeartSync Cardiac Monitor",
+        "src": "vertex-medtech"
+    },
+    {
+        "question": "What specialized service does Vertex MedTech offer that includes training and certification?",
+        "answer": "Training and Certification Programs",
+        "src": "vertex-medtech"
+    },
+    {
+        "question": "Which company is partnered with Vertex MedTech for developing biocompatible materials?",
+        "answer": "BioInnovate Solutions",
+        "src": "vertex-medtech"
+    },
+    {
+        "question": "What is the focus of the partnership with HealthSync AI?",
+        "answer": "Integrating advanced AI algorithms into Vertex MedTech devices.",
+        "src": "vertex-medtech"
+    },
+    {
+        "question": "Who is the Director of Clinical Research at InnovateClinix?",
+        "answer": "Dr. Olivia Turner",
+        "src": "vertex-medtech"
+    },
+    {
+        "question": "In which area has Vertex MedTech partnered with the University of Health Sciences?",
+        "answer": "Research initiatives and educational programs.",
+        "src": "vertex-medtech"
+    },
+    {
+        "question": "What feature does the MediGlide Surgical Robot have for enhanced surgeries?",
+        "answer": "3D visualization and haptic feedback technology.",
+        "src": "vertex-medtech"
+    },
+    {
+        "question": "What does the OrthoFlex Prosthetic Solutions offer in terms of customization?",
+        "answer": "Adaptive technology, lightweight materials, and personalized fitting.",
+        "src": "vertex-medtech"
+    },
+    {
+        "question": "What’s the contact email for Vertex MedTech's partnerships inquiries?",
+        "answer": "partnerships@vertexmedtech.com",
+        "src": "vertex-medtech"
+    },
+    {
+        "question": "What is the focus area of Vertex MedTech's Innovation Hub?",
+        "answer": "Exploring new frontiers in medical technology with a focus on AI, materials, and imaging technologies.",
+        "src": "vertex-medtech"
+    },
+    {
+        "question": "How much does the LungGuard Pulmonary Device cost?",
+        "answer": "$10,000",
+        "src": "vertex-medtech"
+    },
+    {
+        "question": "Who is the Lead Engineer for the VitaScan Portable Ultrasound?",
+        "answer": "Mark Thompson",
+        "src": "vertex-medtech"
+    },
+    {
+        "question": "What feature makes the HeartSync Cardiac Monitor stand out?",
+        "answer": "Continuous ECG monitoring with Bluetooth data transfer.",
+        "src": "vertex-medtech"
+    },
+    {
+        "question": "What does Dr. Laura Kingsley say about the HeartSync Cardiac Monitor?",
+        "answer": "It has transformed patient monitoring with real-time data leading to significant treatment outcomes.",
+        "src": "vertex-medtech"
+    }
+]

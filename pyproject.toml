@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "diploma"
+version = "0.1.0"
+description = ""
+authors = ["Vladyslav Fliahin <vladyslav.fliahin@nure.ua>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.x"
+ipykernel = "^6.29.5"
+tiktoken = "^0.9.0"
+llama-index = "0.12.x"
+llama-index-vector-stores-neo4jvector = "x"
+trulens = "1.x.x"
+trulens-providers-openai = "1.x.x"
+trulens-apps-llamaindex = "1.x.x"
+neo4j = "^5.28.1"
+ipywidgets = "^8.1.5"
+deepeval = "^2.6.4"
+llama-index-llms-google-genai = "^0.1.6"
+llama-index-llms-together = "^0.3.1"
+matplotlib = "^3.10.1"
+seaborn = "^0.13.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
